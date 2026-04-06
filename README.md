@@ -1,8 +1,8 @@
 # Show Your Flow
 
-Weekly AI showcase app for KNB Investments Claude Enterprise users.
+Weekly AI showcase app for enterprise LLM users.
 
-## Deploy (same as Ada)
+## Deploy 
 
 1. Push this folder to a new GitHub repo
 2. Go to share.streamlit.io → Create app
